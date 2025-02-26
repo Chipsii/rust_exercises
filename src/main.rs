@@ -1,3 +1,7 @@
 fn main() {
-    println!("Hello, world!");
+    let _ = the_thing();
+}
+
+fn the_thing() {
+    println!("The thing is happening!");
 }
